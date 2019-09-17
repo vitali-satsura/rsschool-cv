@@ -8,3 +8,5 @@
 * Basic HTML&CSS
 * Basic JavaScript
 * Core Java
+
+## Code example:
