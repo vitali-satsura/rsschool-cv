@@ -10,3 +10,10 @@
 * Core Java
 
 ## Code example:
+```javascript
+function sayHello() {
+    alert("Hello!");
+  }
+}
+```
+## Education:
