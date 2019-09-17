@@ -17,3 +17,4 @@ function sayHello() {
 }
 ```
 ## Education:
+Sukhoi State Technical University of Gomel
